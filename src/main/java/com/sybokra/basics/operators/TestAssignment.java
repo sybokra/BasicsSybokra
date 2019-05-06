@@ -1,4 +1,4 @@
-package com.sybokra.basics.testone;
+package com.sybokra.basics.operators;
 
 
 class Tank{
